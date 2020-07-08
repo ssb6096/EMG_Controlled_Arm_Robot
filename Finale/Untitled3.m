@@ -1,0 +1,1 @@
+rock = load_xdf('test6.xdf')
